@@ -1,0 +1,31 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.idea
+*.sublime-project
+*.iml
+
+# Elixir-specific
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+*.beam
